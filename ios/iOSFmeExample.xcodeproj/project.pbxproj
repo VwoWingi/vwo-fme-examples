@@ -426,7 +426,7 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/wingify/vwo-fme-ios-sdk";
 			requirement = {
-				kind = upToNextMajorVersion;
+				kind = exactVersion;
 				minimumVersion = 1.5.0;
 			};
 		};
